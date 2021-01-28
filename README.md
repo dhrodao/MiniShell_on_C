@@ -1,4 +1,4 @@
-# MiniShell
+## MiniShell
 
 This program has been the final project for my Operating System course at university. 
 It consists of programming a command interpreter (shell) for Linux. The shell should read lines from the standard input and execute commands. For reading from the standard input I've used **stdio** (fgets(3)).
@@ -37,3 +37,5 @@ It consists of programming a command interpreter (shell) for Linux. The shell sh
     > ifok ls -l /tmp
   
   - Globbing
+
+# **GitHub** link will be posted when my course has ended.
