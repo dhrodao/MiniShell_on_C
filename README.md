@@ -32,8 +32,8 @@ It consists of programming a command interpreter (shell) for Linux. The shell sh
     >  otra lin. <br>
     >} <br>
     
-- Command ifok/ifnot, will execute the command written after it, if the previous command exit status is SUCCESS/FAILURE. Example: (if directory **/tmp** exists, **ls -l** will be executed)
-  > test -e /tmp <br>
-  > ifok ls -l /tmp
+  - Command ifok/ifnot, will execute the command written after it, if the previous command exit status is SUCCESS/FAILURE. Example: (if directory **/tmp** exists, **ls -l** will be executed)
+    > test -e /tmp <br>
+    > ifok ls -l /tmp
   
-- Globbing
+  - Globbing
