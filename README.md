@@ -37,5 +37,3 @@ It consists of programming a command interpreter (shell) for Linux. The shell sh
     > ifok ls -l /tmp
   
   - Globbing
-
-## **GitHub** link will be posted when my course has ended.
